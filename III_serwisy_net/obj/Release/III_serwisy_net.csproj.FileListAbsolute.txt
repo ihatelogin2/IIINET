@@ -1,0 +1,8 @@
+C:\Users\micha\source\repos\III_serwisy_net\III_serwisy_net\bin\Release\III_serwisy_net.exe.config
+C:\Users\micha\source\repos\III_serwisy_net\III_serwisy_net\bin\Release\III_serwisy_net.exe
+C:\Users\micha\source\repos\III_serwisy_net\III_serwisy_net\bin\Release\III_serwisy_net.pdb
+C:\Users\micha\source\repos\III_serwisy_net\III_serwisy_net\obj\Release\III_serwisy_net.csproj.AssemblyReference.cache
+C:\Users\micha\source\repos\III_serwisy_net\III_serwisy_net\obj\Release\III_serwisy_net.csproj.SuggestedBindingRedirects.cache
+C:\Users\micha\source\repos\III_serwisy_net\III_serwisy_net\obj\Release\III_serwisy_net.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\III_serwisy_net\III_serwisy_net\obj\Release\III_serwisy_net.exe
+C:\Users\micha\source\repos\III_serwisy_net\III_serwisy_net\obj\Release\III_serwisy_net.pdb
